@@ -3,7 +3,7 @@
 --- 
 ### 1. WEB INTERFACE
 
-<img width="1878" height="1027" alt="image" src="https://github.com/user-attachments/assets/b2ce0b36-ca64-41a6-b90e-6dc29b8ec732" />
+<img width="1876" height="1029" alt="image" src="https://github.com/user-attachments/assets/b9481e46-0dce-40cd-91cd-dc920f39eba4" />
 
 ---
 ### 2. Sports
