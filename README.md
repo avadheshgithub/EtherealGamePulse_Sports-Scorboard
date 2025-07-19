@@ -1,4 +1,5 @@
-# EtherealGamePulse_Sports-Scorboard
+# EtherealGamePulse_Sports-Scorboard WebApp
+
 
 --- 
 ### 1. WEB INTERFACE
